@@ -2,7 +2,7 @@
 
 # mdWebTest
 
-test de site web avec des fichiers markdown pour easyWeb
+test de site web avec des fichiers markdown pour easy Web
 
 
 test de navigation dans des sous repertoire :
